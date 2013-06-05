@@ -47,7 +47,7 @@ function init_masonry(){
 
 
 /* google maps */
-var myLatlng = new google.maps.LatLng(40.758890,-73.979366);
+var myLatlng = new google.maps.LatLng(50.459891,-3.545808);
 
 var mapInitOpts = {
     mapTypeId: google.maps.MapTypeId.ROADMAP,
